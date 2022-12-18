@@ -6,9 +6,17 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+.Loader {
+  background-color:none;
+  
+  max-height: 100%;
+	max-width: 100%;
+	width:150px;
+	height:150px;
+	float: left;
+}
 .App-header {
-  background-color: #282c34;
+  background-color: #F4C430;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
